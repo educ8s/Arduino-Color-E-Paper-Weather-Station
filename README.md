@@ -24,7 +24,7 @@ On the display, we show the temperature, humidity, barometric pressure, and weat
 
 # Parts Needed
 
-🛒 E-Paper Board: https://soldered.com/product/inkplate-6color-color-e-paper-board-copy/
+🛒 E-Paper Board: https://educ8s.tv/part/ColorEPaper
 
 🛒 DHT22: https://educ8s.tv/part/DHT22
 
